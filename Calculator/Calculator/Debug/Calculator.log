@@ -1,0 +1,5 @@
+﻿  Calc.cpp
+c:\users\mitchell.quigg\source\repos\calculator\calculator\calc.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\mitchell.quigg\source\repos\calculator\calculator\calc.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\mitchell.quigg\source\repos\calculator\calculator\calc.cpp(198): warning C4715: 'Calc::FreeNodesAfterNode': not all control paths return a value
+  Calculator.vcxproj -> C:\Users\mitchell.quigg\source\repos\Calculator\Debug\Calculator.exe
